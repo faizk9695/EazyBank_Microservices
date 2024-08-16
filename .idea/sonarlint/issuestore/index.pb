@@ -21,3 +21,17 @@ C
 cards/Dockerfile,2/9/2975bd215a18ffc6b07aa5cdf641c2938ad814cd
 r
 Baccounts/src/main/java/com/eazybytes/accounts/dto/CustomerDto.java,9/0/909142ea177f20394d05cfd60de336c167708040
+}
+Maccounts/src/main/java/com/eazybytes/accounts/dto/AccountsContactInfoDto.java,2/1/219ef28976e6f8d70324c4f3b79f9d9ffa4d09fc
+t
+Dcards/src/main/java/com/eazybytes/cards/dto/CardsContactInfoDto.java,5/e/5ebd72b8212842d717104cf84c7199c69bdaa2e0
+t
+Dloans/src/main/java/com/eazybytes/loans/dto/LoansContactInfoDto.java,c/3/c36be445dbad7f2e8a670121873d2053a518f465
+w
+Gloans/src/main/java/com/eazybytes/loans/controller/LoansController.java,b/b/bbde913d2bbe6a3e954317fa15270dafbf7beef1
+m
+=cards/src/main/java/com/eazybytes/cards/CardsApplication.java,4/3/43e3e52ee44935c281ca637c174006872dfc6bea
+m
+=loans/src/main/java/com/eazybytes/loans/LoansApplication.java,6/9/690667b636c2559bbbe48a5ba68f69674cf59ae3
+w
+Gcards/src/main/java/com/eazybytes/cards/controller/CardsController.java,7/e/7ed41922aae0ea53e87ac7c5d7f936b09a4bba05
