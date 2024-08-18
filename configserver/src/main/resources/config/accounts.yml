@@ -1,0 +1,12 @@
+server:
+  port: 8080
+build:
+   version: "1.0"
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Faizan khan - Developer"
+    email: "iamfaizank9695@.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
