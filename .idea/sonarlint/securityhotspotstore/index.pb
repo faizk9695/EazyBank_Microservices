@@ -7,8 +7,6 @@ t
 Daccounts/src/main/java/com/eazybytes/accounts/entity/BaseEntity.java,b/e/beb9d72003c2e884cc17a2117fff12c455d3965f
 w
 Gaccounts/src/main/java/com/eazybytes/accounts/audit/AuditAwareImpl.java,7/b/7b73b20420b07b768fc5de1e4dcc56edc54da4be
-K
-accounts/docker-compose.yml,6/9/69bdfae916d529f468930246e21b9817a051520e
 €
 Paccounts/src/main/java/com/eazybytes/accounts/controller/AccountsController.java,4/f/4f94dbbdc7f95df6202e5f19ce0f53aa5503a31b
 v
@@ -59,3 +57,9 @@ E
 accounts/mvnw,b/8/b82670a19ef280180cbdcb51e2638525c6bb8040
 A
 accounts/mvnw.cmd,b/1/b1f8fe7e56f4f7c1a22898b6d052d43e76798b6b
+Y
+)docker-compose/default/docker-compose.yml,5/4/54d121a4174bc60a2b7478b442c704b13e8ad819
+X
+(docker-compose/default/common-config.yml,f/3/f35f5e02842bda324538f78c0a4c6717d6587d07
+G
+configserver/Dockerfile,2/2/224ca68af3883c9836d03a5c416646e73ad5e32e

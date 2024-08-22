@@ -6,6 +6,7 @@
 /home/faizan/Banking_Microservices/accounts/src/main/java/com/eazybytes/accounts/service/impl/AccountsServiceImpl.java
 /home/faizan/Banking_Microservices/accounts/src/main/java/com/eazybytes/accounts/dto/ErrorResponseDto.java
 /home/faizan/Banking_Microservices/accounts/src/main/java/com/eazybytes/accounts/dto/CustomerDto.java
+/home/faizan/Banking_Microservices/accounts/src/main/java/com/eazybytes/accounts/dto/AccountsContactInfoDto.java
 /home/faizan/Banking_Microservices/accounts/src/main/java/com/eazybytes/accounts/constants/AccountsConstants.java
 /home/faizan/Banking_Microservices/accounts/src/main/java/com/eazybytes/accounts/service/IAccountsService.java
 /home/faizan/Banking_Microservices/accounts/src/main/java/com/eazybytes/accounts/audit/AuditAwareImpl.java
@@ -17,4 +18,4 @@
 /home/faizan/Banking_Microservices/accounts/src/main/java/com/eazybytes/accounts/entity/Customer.java
 /home/faizan/Banking_Microservices/accounts/src/main/java/com/eazybytes/accounts/mapper/CustomerMapper.java
 /home/faizan/Banking_Microservices/accounts/src/main/java/com/eazybytes/accounts/exception/CustomerAlreadyExistsException.java
-/home/faizan/Banking_Microservices/accounts/src/main/java/com/eazybytes/accounts/exception/ResourceNotFoundException.java
+/home/fai
