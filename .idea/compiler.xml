@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="eurekaserver" />
         <module name="cards" />
         <module name="accounts" />
         <module name="configserver" />
@@ -15,7 +16,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Configserver" target="17" />
-      <module name="eurekaserver" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -23,6 +23,7 @@
       <module name="accounts" options="-parameters" />
       <module name="cards" options="-parameters" />
       <module name="configserver" options="-parameters" />
+      <module name="eurekaserver" options="-parameters" />
       <module name="loans" options="-parameters" />
     </option>
   </component>
