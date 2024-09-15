@@ -24,18 +24,15 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 				version = "v1",
 				contact = @Contact(
 						name = "Madan Reddy",
-						email = "tutor@eazybytes.com",
-						url = "https://www.eazybytes.com"
+						email = "iamfaizank9695@gmail.com.com"
+
 				),
 				license = @License(
-						name = "Apache 2.0",
-						url = "https://www.eazybytes.com"
+						name = "Apache 2.0"
+
 				)
-		),
-		externalDocs = @ExternalDocumentation(
-				description = "EazyBank Loans microservice REST API Documentation",
-				url = "https://www.eazybytes.com/swagger-ui.html"
 		)
+
 )
 public class LoansApplication {
 

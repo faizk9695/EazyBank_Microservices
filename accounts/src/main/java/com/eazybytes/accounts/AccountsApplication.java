@@ -27,14 +27,11 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 						email = "iamfaizank9695@gmail.com"
 				),
 				license = @License(
-						name = "Apache 2.0",
-						url = "https://www.eazybytes.com"
+						name = "Apache 2.0"
+
 				)
-		),
-		externalDocs = @ExternalDocumentation(
-				description =  "EazyBank Accounts microservice REST API Documentation",
-				url = "https://www.eazybytes.com/swagger-ui.html"
 		)
+
 )
 public class AccountsApplication {
 
